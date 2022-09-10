@@ -1,0 +1,31 @@
+table {
+  border: 1px solid green;
+  margin: 20px;
+  text-align: center;
+}
+
+th {
+  border: 1px solid green;
+  margin: 20px;
+  text-align: center;
+  background: linear-gradient(to right, #00ff00, green);
+}
+
+td {
+  border: 1px solid green;
+  margin: 20px;
+  text-align: center;
+}
+
+td:hover {
+  background-color: blanchedalmond;
+}
+
+button {
+  margin: 5px;
+}
+
+button a {
+  text-decoration: none;
+  color: green;
+}
