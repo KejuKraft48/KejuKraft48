@@ -2,7 +2,9 @@
     font-family: "poppins";
     src: url("Poppins-SemiBold.otf");
   }
-  
+  [class*="col-"]{
+    width:100%;
+  }
   body {
     font-family: "poppins";
   }
@@ -50,7 +52,7 @@
     height: auto;
   }
   
-  .rules {
+  .col-rules {
     padding-bottom: 1rem;
     color: red;
     margin: auto;
