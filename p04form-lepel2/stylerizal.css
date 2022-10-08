@@ -2,13 +2,13 @@
     font-family: "poppins";
     src: url("Poppins-SemiBold.otf");
   }
-  [class*="col-"]{
+  .col-{
     width:100%;
   }
   body {
     font-family: "poppins";
   }
-  .pala {
+  col-head {
     font-family: "poppins";
     font-size: 30px;
   }
