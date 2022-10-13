@@ -307,7 +307,7 @@
     bottom: 0;
     position: absolute;
     background-color: #78be21;
-    display: flex;
+    display: flex !important;
     align-items: center;
     justify-content: center;
     margin-top: 3rem;
