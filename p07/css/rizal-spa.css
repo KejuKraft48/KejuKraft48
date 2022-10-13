@@ -174,7 +174,7 @@
     width: 100%;
     max-width: 60rem;
     margin: auto;
-    height: 120vh;
+    height: screen;
     position: relative;
     background-color: #c5c5c5;
     box-sizing: border-box;
@@ -302,14 +302,12 @@
   }
 
   .kaki {
-    position: absolute;
-    left: 0;
-    bottom: 0;
     width: 100%;
     height: 50pt;
     background-color: #78be21;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 3rem;
   }
 }
