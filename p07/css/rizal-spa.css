@@ -239,7 +239,7 @@
 
   .konten {
     width: 100%;
-    height: 23rem;
+    height: 20rem;
     background-color: #78be21;
     border-radius: 10px;
     box-sizing: border-box;
@@ -247,7 +247,7 @@
   }
   .isi-konten {
     width: 100%;
-    height: 21rem;
+    height: 18rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -256,7 +256,7 @@
   .tugas,
   .kontak {
     width: 100%;
-    height: 23rem;
+    height: 20rem;
     background-color: #78be21;
     border-radius: 10px;
     box-sizing: border-box;
@@ -266,7 +266,7 @@
   .isi-tugas,
   .isi-kontak {
     width: 100%;
-    height: 21rem;
+    height: 18rem;
     display: flex;
     align-items: center;
     justify-content: center;
