@@ -173,7 +173,7 @@
   .karung {
     width: 100%;
     max-width: 60rem;
-    margin: auto;
+    margin: auto !important;
     height: screen;
     position: relative;
     background-color: #c5c5c5;
